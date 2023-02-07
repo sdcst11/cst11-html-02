@@ -28,5 +28,5 @@ https://www.w3schools.com/css/css_colors_hex.asp
 # Assignment
 Today we will be researching some of the possibilities that can be accomplished with styles.  You will include them in a document so that you can refer to them later. 
 1. Do a Google search for different styles.
-2. Find 30 styles that you think you might use
-3. For each styles, create a tag and an example in the "styles.html" document.
+2. Identify the most interesting styles that you think you might use
+3. For each style, create a tag and an example in the "styles.html" document.
