@@ -10,7 +10,11 @@ Open up the page1.html file and preview what it looks like.  You will notice the
 What is the main difference between a div and a span tag?
 ```
 
+ # Inline vs Blocks
+ <span> is considered an *inline* tag, which means that it preserves the line spacing.  This means that if the tag appears  in the middle of the line, then the container tag contents will still be in the middle of the line.  A <div> tag is a block tag, which means that the content will be pulled out of the line, almost as though it was a paragraph.  Later on, we will see that we can actually make blocks into *inline blocks*, which means that the blocks can appear side by side, rather than vertically, like paragraphs.
+
 # Inline Styles
+Styles are a huge part of modern webpage development.  A style can be applied in many ways, but we will look at the simplest way first.
 A style can be added to any html tag with an attribute:
 ```
 <div style="color: red; text-decoration: underline;" >This is red and underlined</div>
